@@ -38,4 +38,4 @@ yarn ios # or yarn android
 If you added dependencies recently, restart Metro and rebuild the app.
 
 ## Demo video
-[Watch the demo video](docs/demo.mp4)
+[Watch the demo video](https://drive.google.com/file/d/1VjFZSskuZ4kDyiQ5KVphxVlXOHwK4fYd/view?usp=drive_link)
